@@ -13,7 +13,10 @@
     "e-commerce",
     "shopping",
     "Shopping cart"
-  ],
+  ],  
+  "engines": {
+    "node": "14.15.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
